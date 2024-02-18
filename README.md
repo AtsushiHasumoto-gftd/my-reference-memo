@@ -1,4 +1,5 @@
 # 私の参考リンク
+プライベートrepoのDevRepo-AtsushiHasumotoと共有。
 
 # Game 開発
 - SDL
