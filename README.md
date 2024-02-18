@@ -15,7 +15,7 @@
 # DataBase System
 - mysql/mariadb
 
-# Web Development (FrondEnd)
+# Web Development (FrontEnd)
 - html / css
 - javascript
 - typescript
