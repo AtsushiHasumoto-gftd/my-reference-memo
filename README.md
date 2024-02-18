@@ -10,6 +10,28 @@
 # Linux/FreeBSD 
 - network
 - unix api
+# Operating System
+- kernel
+# DataBase System
+- mysql/mariadb
+
+# Web Development (FrondEnd)
+- html / css
+- javascript
+- typescript
+- React
+- VueJS
+
+# Web Development (BackEnd)
+- PHP
+    - Laravel
+- Java
+    - SpringBoot
+- nodejs
+  
+# UML 
+- mermaid
+
 
 
 
