@@ -1,4 +1,5 @@
 # 私の参考リンク
+プライベートrepoのDevRepo-AtsushiHasumoto( https://github.com/DevRepo-AtsushiHasumoto/my-reference-memo )と共有。
 
 # Game 開発
 - SDL
