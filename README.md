@@ -3,7 +3,7 @@
  - [private]( https://github.com/DevRepo-AtsushiHasumoto/my-reference-memo ). 
 ## gftd 専用repo
  - [work]( https://github.com/AtsushiHasumoto-gftd/my-reference-memo ). 
-### *上記は共用*
+### $${\color{red}上記は共用}$$
 
 # Game 開発
 - SDL
