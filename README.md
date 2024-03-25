@@ -1,8 +1,8 @@
 # 私の参考リンク集
 ## プライベートrepoのDevRepo-AtsushiHasumoto
- - [private]( https://github.com/DevRepo-AtsushiHasumoto/my-reference-memo ). 
+ - [private]( https://github.com/atsushi-rh/my-reference-memo ). 
 ## gftd 専用repo
- - [work]( https://github.com/AtsushiHasumoto-gftd/my-reference-memo ). 
+ - [work]( https://github.com/atsushi-rh-gftd/my-reference-memo ). 
 ### $${\color{red}上記は共用}$$
 
 # Game 開発
